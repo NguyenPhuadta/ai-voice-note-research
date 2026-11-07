@@ -7,4 +7,6 @@ Tài liệu ngắn cho MVP ghi chú cuộc họp bằng AI.
 3. [Quan điểm về core MVP](03-quan-diem-core-mvp.md) — ưu tiên sản phẩm đã thảo luận.
 4. [Nhận xét từng app](04-nhan-xet-tung-app.md) — điểm nên học và nên tránh từ 7 app đã test.
 
+Để xem bản trực quan, chạy `python3 -m http.server 8000` trong thư mục repo rồi mở [phân tích app](http://localhost:8000/phan-tich-app.html).
+
 Nguồn: [Product concept và target user](https://docs.google.com/spreadsheets/d/1vn3hAtczJ1DvzKK_n0Q_AeuqZIDSF_7QhsvrN-cDSrM/edit?gid=1394309579) · [Danh sách đối thủ](https://docs.google.com/spreadsheets/d/12xTFSydJKMa3uCAfQWy4EZO-0bzPTWA0DsDJ65oe0B4/edit?gid=0).
